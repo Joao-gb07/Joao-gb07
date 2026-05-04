@@ -44,16 +44,6 @@ Curso **Tecnologia em Sistemas para Internet** no IFB e sou apaixonado por tecno
 
 ---
 
-### 🚀 Projetos em Destaque
-
-|     | Projeto                     | Descrição                                                                            |
-| --- | --------------------------- | ------------------------------------------------------------------------------------ |
-| 🩹   | **Cicatriza+**              | App de gestão de curativos — projeto acadêmico com cliente real, desenvolvido no IFB |
-| 🌐   | **Site em Desenvolvimento** | Projeto web criado como atividade prática do curso de Sistemas para Internet         |
-| ☕   | **Algoritmos Java**         | Exercícios e desafios de lógica resolvidos durante o curso                           |
-
----
-
 ### 📊 Estatísticas
 
 <p align="left">
